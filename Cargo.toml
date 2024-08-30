@@ -1,0 +1,8 @@
+[package]
+name = "Subgroups_of_a_Product_Mixed_Groups"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4.0"
+num-traits = "0.2.15"
